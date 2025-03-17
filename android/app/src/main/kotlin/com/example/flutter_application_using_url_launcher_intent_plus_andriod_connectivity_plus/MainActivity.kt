@@ -1,0 +1,5 @@
+package com.example.flutter_application_using_url_launcher_intent_plus_andriod_connectivity_plus
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
